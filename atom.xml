@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://choi-seongjin.github.io/</id>
+	<title>Seongjin Choi @UMN</title>
+	<updated>2026-08-26T09:15:12+00:00</updated>
+
+	<subtitle>UMN Choi Lab — Seongjin Choi, Assistant Professor, CEGE, University of Minnesota Twin Cities. Research on urban mobility data analytics, spatiotemporal AI, generative intelligence, vision-language-action models, and LLM-powered traffic management.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Seongjin Choi</name>
+			
+			
+				<email>chois@umn.edu</email>
+			
+			
+		</author>
+	
+
+	<link href="https://choi-seongjin.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://choi-seongjin.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.4.1">Jekyll</generator>
+
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260814</id>
+			<title>Invited talk at Seoul National University</title>
+			<link href="https://choi-seongjin.github.io/news/260814" rel="alternate" type="text/html" title="Invited talk at Seoul National University" />
+			<updated>2026-08-14T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>It was a pleasure to present &quot;Generative Priors for Traffic State Estimation: A Physics-Guided, Mask-Aware Diffusion Framework&quot; at Seoul National University (Seoul, South Korea).</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260814">
+</content>
+
+			
+			
+
+			<published>2026-08-14T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260812</id>
+			<title>Invited talk at KAIST (Industrial &amp; Systems Engineering)</title>
+			<link href="https://choi-seongjin.github.io/news/260812" rel="alternate" type="text/html" title="Invited talk at KAIST (Industrial &amp; Systems Engineering)" />
+			<updated>2026-08-12T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>It was a pleasure to present &quot;Learning Distributions of Transportation Data using Structured Probabilistic Models and Deep Generative Models&quot; at the Department of Industrial &amp; Systems Engineering, KAIST (Daejeon, South Korea).</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260812">
+</content>
+
+			
+			
+
+			<published>2026-08-12T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260810</id>
+			<title>Invited talk at the Korea Transport Institute (KOTI)</title>
+			<link href="https://choi-seongjin.github.io/news/260810" rel="alternate" type="text/html" title="Invited talk at the Korea Transport Institute (KOTI)" />
+			<updated>2026-08-10T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>It was a pleasure to give an invited talk, &quot;Can an LLM Understand Traffic Network?&quot;, at the Korea Transport Institute (KOTI) in Sejong, South Korea.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260810">
+</content>
+
+			
+			
+
+			<published>2026-08-10T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260706</id>
+			<title>The Choi Lab, summer 2026</title>
+			<link href="https://choi-seongjin.github.io/news/260706" rel="alternate" type="text/html" title="The Choi Lab, summer 2026" />
+			<updated>2026-07-06T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>A summer 2026 group photo of the Choi Lab at the University of Minnesota — the postdoctoral, PhD, master&apos;s, and undergraduate researchers behind our work on spatiotemporal AI, generative intelligence, and vision–language–action models for transportation.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260706">&lt;p&gt;A summer 2026 snapshot of the Choi Lab at the University of Minnesota — the researchers behind our work on spatiotemporal AI, generative intelligence, and vision–language–action models for transportation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/group_photo.jpg&quot; alt=&quot;The Choi Lab, summer 2026&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See the full roster on the &lt;a href=&quot;/team/&quot;&gt;team page&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-07-06T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260701</id>
+			<title>Guoliang Feng joins the lab as a postdoctoral researcher</title>
+			<link href="https://choi-seongjin.github.io/news/260701" rel="alternate" type="text/html" title="Guoliang Feng joins the lab as a postdoctoral researcher" />
+			<updated>2026-07-01T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Guoliang Feng joins the Choi Lab as a postdoctoral researcher in July 2026, working on AI integration in traffic operations, agentic traffic simulation, and synthetic population generation.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260701">&lt;p&gt;I’m delighted to welcome &lt;strong&gt;Guoliang Feng&lt;/strong&gt;, who joins the lab as a postdoctoral researcher in July 2026.&lt;/p&gt;
+
+&lt;p&gt;Guoliang’s work centers on AI integration in traffic operations, agentic traffic simulation, and synthetic population generation — bringing large-scale simulation together with learning-based methods for transportation systems.&lt;/p&gt;
+
+&lt;p&gt;Welcome to the team, Guoliang! 🎉&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-07-01T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260630</id>
+			<title>Invited talk at the BIRS workshop in Banff</title>
+			<link href="https://choi-seongjin.github.io/news/260630" rel="alternate" type="text/html" title="Invited talk at the BIRS workshop in Banff" />
+			<updated>2026-06-30T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>It was a pleasure to present &quot;Generative Priors for Traffic State Estimation: A Physics-Guided, Mask-Aware Diffusion Framework&quot; at the BIRS workshop &quot;Emerging Challenges in Statistical Modeling for Transportation Research&quot; (Banff, Canada, June 28 – July 3, 2026).</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260630">&lt;p&gt;For more information:
+&lt;a href=&quot;https://www.birs.ca/events/2026/5-day-workshops/26w5601&quot;&gt;https://www.birs.ca/events/2026/5-day-workshops/26w5601&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-06-30T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260622</id>
+			<title>New review in Renewable and Sustainable Energy Reviews: Can renewables power the AI boom?</title>
+			<link href="https://choi-seongjin.github.io/news/260622" rel="alternate" type="text/html" title="New review in Renewable and Sustainable Energy Reviews: Can renewables power the AI boom?" />
+			<updated>2026-06-22T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Our systematic review asking whether renewable energy can keep up with the surging electricity demand of artificial intelligence has been accepted at Renewable and Sustainable Energy Reviews.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260622">&lt;p&gt;I’m glad to share a new paper that has been accepted and is in press at &lt;em&gt;Renewable and Sustainable Energy Reviews&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can Renewable Energy Meet the Surging Power Demand of Artificial Intelligence? A Systematic Review&lt;/strong&gt;, led by &lt;strong&gt;Sunbin Yoo&lt;/strong&gt; (Sungkyunkwan University), with me and &lt;strong&gt;Dohyung Kim&lt;/strong&gt; (Kyushu University), takes on a question now at the center of both the AI and the energy-policy conversations: as data centers and large-scale AI training push electricity demand sharply upward, can renewable energy keep pace? The paper systematically reviews the evidence linking AI’s growth to power consumption and assesses both the potential and the limits of renewables in meeting that demand.&lt;/p&gt;
+
+&lt;p&gt;This one sits a little outside our usual traffic-and-mobility work, and it was a pleasure to think across the AI–energy boundary with collaborators in Korea and Japan.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Sunbin and Dohyung on the acceptance! 🎉&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-06-22T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260620</id>
+			<title>Three new papers: PMA-Diffusion, Weaver, and TrajFlow</title>
+			<link href="https://choi-seongjin.github.io/news/260620" rel="alternate" type="text/html" title="Three new papers: PMA-Diffusion, Weaver, and TrajFlow" />
+			<updated>2026-06-20T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>A great stretch for the lab: PMA-Diffusion is published in Transportation Research Part C, while Weaver (also TR Part C) and TrajFlow (Artificial Intelligence for Transportation) have been accepted and are now in press.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260620">&lt;p&gt;I’m excited to share three new papers from the lab, all on generative and deep-learning methods for traffic modeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PMA-Diffusion: A Physics-guided Mask-aware Diffusion Framework for Traffic State Estimation from Sparse Observations&lt;/strong&gt; has been published in &lt;em&gt;Transportation Research Part C: Emerging Technologies&lt;/em&gt; (Volume 190, Article 105801). Led by &lt;strong&gt;Lindong Liu&lt;/strong&gt;, together with &lt;strong&gt;Zhixiong Jin&lt;/strong&gt;, this work reformulates sparse traffic state estimation as a Bayesian inverse problem. Instead of requiring fully observed training data, PMA-Diffusion learns a mask-aware diffusion prior directly from incomplete speed fields and applies weak traffic-physics guidance only at inference through an adaptive anisotropic smoothing projector. On the I-24 MOTION dataset it reconstructs complete highway speed fields even under severe sparsity—outperforming representative baselines at as little as 5% visibility.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;📄 &lt;a href=&quot;https://doi.org/10.1016/j.trc.2026.105801&quot;&gt;DOI: 10.1016/j.trc.2026.105801 ↗&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Weaver: Kronecker Product Approximations of Spatiotemporal Attention for Traffic Network Forecasting&lt;/strong&gt;, by &lt;strong&gt;Christopher Cheong&lt;/strong&gt;, &lt;strong&gt;Gary Davis&lt;/strong&gt;, and me, has been accepted and is in press at &lt;em&gt;Transportation Research Part C: Emerging Technologies&lt;/em&gt;. Weaver uses the mixed Kronecker matrix–vector identity to approximate spatiotemporal attention efficiently, factorizing spatial and temporal structure to scale attention-based forecasting to large traffic networks.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;📄 &lt;a href=&quot;https://arxiv.org/abs/2511.08888&quot;&gt;arXiv:2511.08888 ↗&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows&lt;/strong&gt;, by &lt;strong&gt;Mitch Kosieradzki&lt;/strong&gt; and me, has been accepted and is in press at &lt;em&gt;Artificial Intelligence for Transportation&lt;/em&gt;. TrajFlow casts occupancy density estimation as a generative modeling problem, using normalizing flows to learn flexible, tractable densities over future trajectory occupancy.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;📄 &lt;a href=&quot;https://arxiv.org/abs/2501.14266&quot;&gt;arXiv:2501.14266 ↗&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Congratulations to Lindong, Chris, Mitch, and all of our collaborators on these milestones! 🎉&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-06-20T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260423</id>
+			<title>Two undergraduate researchers complete UROP projects: TMC-Agent and HighwayVLM</title>
+			<link href="https://choi-seongjin.github.io/news/260423" rel="alternate" type="text/html" title="Two undergraduate researchers complete UROP projects: TMC-Agent and HighwayVLM" />
+			<updated>2026-04-23T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Through the Undergraduate Research Opportunities Program (UROP), Leo Curtis advanced TMC-Agent — an agentic AI system for traffic management — and Ismail Yusuf built HighwayVLM, a hybrid computer-vision + vision-language-model highway incident-detection system.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260423">&lt;p&gt;Two talented undergraduate students worked with the lab through the Undergraduate Research Opportunities Program (UROP) this semester.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leo Curtis&lt;/strong&gt; worked on &lt;strong&gt;TMC-Agent&lt;/strong&gt;, an agentic AI system that digests multi-source data streams — traffic detector data, aggregated probe-vehicle speeds, and camera video streams — to deliver traffic operators actionable recommendations and real-time status reports.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ismail Yusuf&lt;/strong&gt; worked on &lt;strong&gt;HighwayVLM&lt;/strong&gt;, a highway incident-detection system that combines classical computer vision with Vision-Language Models (VLMs) in a hybrid architecture for robust, context-aware detection.&lt;/p&gt;
+
+&lt;p&gt;Both projects push the boundaries of how AI can support real-world transportation operations, and it’s been genuinely rewarding to see their curiosity, rigor, and ownership throughout the semester.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/feed/update/urn:li:activity:7453102833500913665/&quot;&gt;View the announcement on LinkedIn ↗&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2026-04-23T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>https://choi-seongjin.github.io/news/260112</id>
+			<title>Transportation Research Board Annual Meeting 2026</title>
+			<link href="https://choi-seongjin.github.io/news/260112" rel="alternate" type="text/html" title="Transportation Research Board Annual Meeting 2026" />
+			<updated>2026-01-12T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Our lab presented 8 papers at the 105th Transportation Research Board Annual Meeting (TRB 2026) in Washington, D.C. Our research spans applications of Generative AI, large language models, and optimization for transportation sensing, estimation, and operations.</summary>
+			<content type="html" xml:base="https://choi-seongjin.github.io/news/260112">
+</content>
+
+			
+			
+
+			<published>2026-01-12T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
